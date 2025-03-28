@@ -1,6 +1,5 @@
-package academy.devdojo.maratonajava.javacore.GGassociacao.test;
+package academy.devdojo.maratonajava.javacore.Gassociacao.test;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class LeituraDoTeclado01 {

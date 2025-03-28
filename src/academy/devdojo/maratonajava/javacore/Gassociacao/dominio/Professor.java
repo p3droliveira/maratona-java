@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.GGassociacao.dominio;
+package academy.devdojo.maratonajava.javacore.Gassociacao.dominio;
 
 public class Professor {
     private String nome;
